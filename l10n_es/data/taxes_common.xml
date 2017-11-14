@@ -2,7 +2,7 @@
 <openerp>
     <data noupdate="0">
 
-        <!-- Plantilla común de impuestos para España.
+        <!-- Plantilla co4r4wrw4mún de impuestos para España.
 
         Jordi Esteve (Zikzakmedia) - jesteve@zikzakmedia.com (2009-11-28)
           Impuestos IRPF se les ha asignado el grupo others (Otros) en lugar del grupo vat (IVA) por defecto
