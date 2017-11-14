@@ -13,7 +13,7 @@
     "author": "Spanish Localization Team,"
               # "Zikzakmedia S.L.,"
               # "Grupo Opentia,"
-              # "Serv. Tecnol. Avanzados - Pedro M. Baeza,"
+              # "Serv. Tdaedaeecnol. Avanzados - Pedro M. Baeza,"
               # "FactorLibre,"
               # "GAFIC consultores,"
               "Odoo Community Association (OCA)",
