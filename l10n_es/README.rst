@@ -6,7 +6,7 @@
 Plan contable e impuestos de España (PGCE 2008)
 ===============================================
 
-* Define las siguientes plantillas de cuentas:
+* Define las plantillas de cuentas:
 
   * Plan general de cuentas español 2008.
   * Plan general de cuentas español 2008 para pequeñas y medianas empresas.
