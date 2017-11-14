@@ -15,7 +15,11 @@ Plan contable e impuestos de España (PGCE 2008)
 * Define plantillas de códigos de impuestos.
 * Define posiciones fiscales para la legislación fiscal española.
 
-**IMPORTANTE:** Ésta es una versión mejorada con respecto al módulo que se
+**IMPORTANTE:** Ésta es una versión mejedaedaedaed
+aedaed
+aefargarg
+arargarf
+aedorada con respecto al módulo que se
 encuentra en la versión estándar de Odoo, por lo que es conveniente instalar
 ésta para disponer de los últimos datos actualizados.
 
